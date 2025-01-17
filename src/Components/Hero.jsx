@@ -34,7 +34,8 @@ const Hero = () => {
                         A<span className="text-gray-400">RA</span>
                         <span className="text-green-500">FAT</span>
                     </h1>
-                    <h2 className='md:text-7xl text-4xl bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent'>
+                    <h2 className='md:text-2xl text-4xl bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent'>
+                        <span>I'am </span>
                         Web Developer
                     </h2>
                     <h3 className='md:text-base text-pretty text-sm text-gray-400'>
